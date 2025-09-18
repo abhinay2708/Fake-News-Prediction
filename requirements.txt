@@ -1,0 +1,20 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# Deep learning
+tensorflow==2.16.1
+keras==3.3.3
+
+# NLP preprocessing
+nltk==3.9.1
+regex==2024.9.11
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# Utility
+tqdm==4.66.5
